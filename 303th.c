@@ -1,14 +1,10 @@
 #include<stdio.h>
-int add(int x , int y)
+int main()
 {
- return x+y;
-}
-int main (){
-	int a =7;
-	int b= a;
-	int c = a+b;
-	int d = add(a,b);
-	printf("%d\n",c);
-	printf("%d",d);	
+	
+	printf("a"),printf("bc"), printf("def");
+	
+	
 	return 0;
+	
 }
