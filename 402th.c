@@ -62,7 +62,6 @@ int main()
 			if (chequebook =='y'){
 				printf("min balance +500 for cheque book");
 			}
-					
 				}
 				}
 	
